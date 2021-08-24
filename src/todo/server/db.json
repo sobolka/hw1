@@ -1,0 +1,45 @@
+{
+  "list": [
+    {
+      "todo": "read the 1 chapter",
+      "id": 1,
+      "userId": 1,
+      "inactive": true
+    },
+    {
+      "todo": "read the 2 chapter",
+      "inactive": false,
+      "userId": 1,
+      "id": 2
+    },
+    {
+      "todo": "read the 3th chapter",
+      "id": 3,
+      "userId": 2,
+      "inactive": false
+    },
+    {
+      "todo": "read the 3 chapter",
+      "userId": 1,
+      "id": 4,
+      "inactive": false
+    },
+    {
+      "todo": "sdfsad",
+      "inactive": false,
+      "id": 5
+    }
+  ],
+  "user": [
+    {
+      "login": "sobolka",
+      "password": "123",
+      "id": 1
+    },
+    {
+      "login": "user1",
+      "password": "123",
+      "id": 2
+    }
+  ]
+}

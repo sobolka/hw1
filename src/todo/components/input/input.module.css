@@ -1,0 +1,49 @@
+.loginInput{
+    padding: 4px;
+    font-size: 14px;
+    border: 1px solid #cbcbcb;
+    background-color: #fff;
+    color: #222;
+    margin-bottom: 20px;
+}
+
+.add{
+    border: none;
+    border-bottom: 1px solid #cbcbcb;
+    background-color: #fff;
+    padding: 4px;
+    margin-right: 20px;
+    font-size: 16px;
+    width: 50%;
+}
+.add:hover{
+    outline: none;
+}
+.add:focus{
+    outline: none;
+}
+
+.list{
+    font-size: 20px;
+    width: 40%;
+    padding: 10px;
+    margin-right: 20px;
+    background-color: #F0F1F1;
+    border: none;
+}
+
+.list:focus{
+    outline: none;
+    background-color: #fff;
+    font-size: 16px;
+}
+
+.list-checked{
+    font-size: 20px;
+    width: 40%;
+    padding: 10px;
+    margin-right: 20px;
+    background-color: #F0F1F1;
+    border: none;
+    text-decoration: line-through;
+}

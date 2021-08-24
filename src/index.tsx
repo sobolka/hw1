@@ -1,6 +1,11 @@
 import React from "react";
 import ReactDOM from "react-dom";
+import App from "./todo/App";
 import "./index.css";
-import { CounterGroupComponent } from "./components/CounterGroupComponent";
 
-ReactDOM.render(<CounterGroupComponent />, document.getElementById("root"));
+ReactDOM.render(
+  <React.StrictMode>
+    <App />
+  </React.StrictMode>,
+  document.getElementById("root")
+);
